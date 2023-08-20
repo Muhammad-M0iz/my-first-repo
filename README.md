@@ -1,2 +1,2 @@
 # my-first-repo
-practice acc for learning Git
+this was a practice repo for learning Git (my first contribution to my own repo)
